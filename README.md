@@ -19,7 +19,7 @@ This blueprint breaks down **how these pieces fit together in production**.
 
 ---
 
-## 🖼️ Infographic Pages
+## 🖼️ Detail System Design
 
 ### 1. Agentic Orchestration — *The Brain*
 ![Agentic Orchestration](./images/01-agentic-orchestration.png)
@@ -197,15 +197,6 @@ This loop ensures your system continuously evolves with:
 - ML Engineers
 - System Architects
 - Startup founders building AI products
-
----
-
-## 🎨 Design Philosophy
-
-- Minimal, high-end visual design
-- Clear hierarchy and flow
-- System thinking over isolated components
-- Built for **LinkedIn + technical storytelling**
 
 ---
 
